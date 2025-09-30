@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>membuat appoinment</description>
+   <name>appoinment</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b49701c9-81d2-40b2-a9f5-b486fae705a2</testCaseGuid>
+</TestCaseEntity>
